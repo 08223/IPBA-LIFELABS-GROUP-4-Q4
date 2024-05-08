@@ -3,7 +3,7 @@ IPBA Lifelabs project to help the community to mitigate the typhoon.
 <!DOCTYPE html>
 <html>
 <head>
-<title>Group 4 LIFELABS IPBA</title>
+
 </head>
 <body>
 <html>
