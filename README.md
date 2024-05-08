@@ -99,10 +99,7 @@ Feel free to explore the webpage. Open the Links. Read the Files. Understand the
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-.p1 {
-  font-family: "Times New Roman", Times, serif;
-}
+
 
 </style>
 </head>
