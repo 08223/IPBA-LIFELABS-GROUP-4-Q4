@@ -101,7 +101,6 @@ Feel free to explore the webpage. Open the Links. Read the Files. Understand the
 <head>
 
 
-</style>
 </head>
 <body>
 
