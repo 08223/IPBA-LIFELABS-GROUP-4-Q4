@@ -76,7 +76,7 @@ IPBA Lifelabs project to help the community to mitigate the typhoon.
 <html>
 <head>
 
-</style>
+
 </head>
 <body>
 
