@@ -3,15 +3,11 @@ IPBA Lifelabs project to help the community to mitigate the typhoon.
 <!DOCTYPE html>
 <html>
 <head>
-
 </head>
 <body>
 <html>
 <head>
 <style>
-.center {
-  text-align: center;
-</style>
 <h1><p class="center" style="background-color: AliceBlue;">GROUP 4 WEBPAGE IPBA</h1>
 
 <html>
