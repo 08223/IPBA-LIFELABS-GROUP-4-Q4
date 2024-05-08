@@ -7,7 +7,6 @@ IPBA Lifelabs project to help the community to mitigate the typhoon.
 <body>
 <html>
 <head>
-<style>
 <h1><p class="center" style="background-color: AliceBlue;">GROUP 4 WEBPAGE IPBA</h1>
 
 <html>
