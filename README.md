@@ -75,11 +75,7 @@ IPBA Lifelabs project to help the community to mitigate the typhoon.
 <!DOCTYPE html>
 <html>
 <head>
-<style>
 
-.p1 {
-  font-family: "Times New Roman", Times, serif;
-}
 </style>
 </head>
 <body>
